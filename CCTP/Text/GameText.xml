@@ -1552,7 +1552,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_BIOTECH_INDUSTRIAL_PARK_DESC</Tag>
-			<Text>Biotechnology industrial park (BIP, also called Bio-industrial park, Eco-industrial Clusters, bioincubators) is a special form of industrial park that specializes in biotechnology.</Text>
+			<Text>The biotechnology industrial park (BIP, also called Bio-industrial park, Eco-industrial clusters, bioincubators) is a special form of industrial park that specializes in biotechnology, furnishing buildings and equipment especially tailored for research, development, and manufacturing in the field.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_BIOTECH_INDUSTRIAL_PARK_HELP</Tag>
@@ -1576,11 +1576,11 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_NATIONAL_LABORATORY_DESC</Tag>
-			<Text>The United States Department of Energy National Laboratories and Technology Centers are a system of facilities and laboratories overseen by the United States Department of Energy (DOE) for the purpose of advancing science and helping promote the economic and defensive national interests of the United States of America. Most of the DOE national laboratories are actually federally funded research and development centers administered, managed, operated and staffed by private corporations and academic universities under contract to DOE. The 2005 NASA Authorization Act designated the U.S. segment of the International Space Station as a national laboratory with a goal to increase the utilization of the ISS by other Federal entities and the private sector.</Text>
+			<Text>The United States Department of Energy National Laboratories and Technology Centers are a system of facilities and laboratories overseen by the United States Department of Energy (DOE) for the purpose of advancing science and helping promote the economic and defensive national interests of the United States of America. Most of the DOE national laboratories are actually federally funded research and development centers administered, managed, operated and staffed by private corporations and academic universities under contract to DOE. The 2005 NASA Authorization Act designated the U.S. segment of the International Space Station as a national laboratory with a goal to increase the utilization of the ISS by other federal entities and the private sector.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_NATIONAL_LABORATORY_HELP</Tag>
-			<Text>You may build up to 1.</Text>
+			<Text>Increases [ICON_SCIENCE] in the empire. You may build up to 1.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_ADVANCED_AIRCRAFT_PLANT</Tag>
@@ -1608,7 +1608,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_GPS_SATELLITES_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"The bottom line -- GPS is absolutely critical to our nation's economic well being." (Michael Shaw)</Text>
+			<Text>[NEWLINE][NEWLINE]"The bottom line—GPS is absolutely critical to our nation's economic well being." [NEWLINE][NEWLINE][TAB]—Michael Shaw</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_CURE_FOR_CANCER</Tag>
@@ -1616,7 +1616,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_CURE_FOR_CANCER_DESC</Tag>
-			<Text>Starting in the mid-1990s, the emphasis in clinical cancer research shifted towards therapies derived from biotechnology research, such as immunotherapy and gene therapy.  With the Human Genome mapped and all cancers classified, research shifted to the genetic causes of these diseases until specific gene therapies could be created for each of them, and tailored to an individual's specific genetics.</Text>
+			<Text>Starting in the mid-1990s, the emphasis in clinical cancer research shifted towards therapies derived from biotechnology research, such as immunotherapy and gene therapy.  With the Human Genome mapped and all cancers classified, research shifted to the genetic causes of these diseases until specific gene therapies could be created for each of them, tailored to an individual's specific genetics.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_CURE_FOR_CANCER_HELP</Tag>
@@ -1632,11 +1632,11 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_CELL_TOWERS_DESC</Tag>
-			<Text>A cell site(aka cell tower) is a term used to describe a site where antennas and electronic communications equipment are placed on a radio mast or tower to create a cell in a cellular network. A cell site is composed of a tower or other elevated structure for mounting antennas, and one or more sets of transmitter/receivers transceivers, digital signal processors, control electronics, a GPS receiver for timing (for CDMA2000 or IS-95 systems), regular and backup electrical power sources, and sheltering.</Text>
+			<Text>A cell site, or a cell tower, is a site where antennas and electronic communications equipment are placed on a radio mast or tower to broadcast information as part of a cellular network. A cell site is composed of a tower or other elevated structure for mounting antennas, and one or more sets of transmitter/receivers transceivers, digital signal processors, control electronics, a GPS receiver for timing (for CDMA2000 or IS-95 systems), regular and backup electrical power sources, and sheltering.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_CELL_TOWERS_HELP</Tag>
-			<Text>It cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in a city. City must have a Stadium.</Text>
+			<Text>Cell towers cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in a city. City must have a Stadium.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_SERVER_FARM</Tag>
@@ -1661,11 +1661,11 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_INTERNETX_HELP</Tag>
-			<Text>You get 3 extra votes in the world congress. 1 Great Engineer appears near this City[NEWLINE][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness in each City.</Text>
+			<Text>The builder get 3 extra votes in the World Congress. A Great Engineer appears near this City. +1 [ICON_HAPPINESS_1] Happiness in each City.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_INTERNETX_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"During my service in the United States Congress, I took the initiative in creating the Internet." (Al Gore)</Text>
+			<Text>[NEWLINE][NEWLINE]"During my service in the United States Congress, I took the initiative in creating the Internet."[NEWLINE][NEWLINE][TAB]—Al Gore</Text>
 		</Row> 
 		<Row>
 			<Tag>TXT_KEY_BUILDING_LARGE_HADRON_COLLIDER</Tag>
@@ -1677,7 +1677,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_LARGE_HADRON_COLLIDER_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"If God has created the world, his primary worry was certainly not to make its understanding easy for us" (Albert Einstein)</Text>
+			<Text>[NEWLINE][NEWLINE]"If God has created the world, his primary worry was certainly not to make its understanding easy for us."[NEWLINE][NEWLINE][TAB]—Albert Einstein</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_HUMAN_BRAIN_MAP</Tag>
@@ -1685,7 +1685,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_HUMAN_BRAIN_MAP_DESC</Tag>
-			<Text>All neuroimaging can be considered part of brain mapping. Brain mapping can be conceived as a higher form of neuroimaging, producing brain images supplemented by the result of additional (imaging or non-imaging) data processing or analysis, such as maps projecting (measures of) behaviour onto brain regions (see fMRI).  Brain Mapping techniques are constantly evolving, and rely on the development and refinement of image acquisition, representation, analysis, visualization and interpretation techniques. Functional and structural neuroimaging are at the core of the mapping aspect of Brain Mapping.</Text>
+			<Text>All neuroimaging can be considered part of brain mapping. Brain mapping can also be conceived as a higher form of neuroimaging, producing brain images supplemented by additional data processing or analysis, such as maps projecting (measures of) behaviour onto brain regions (see fMRI).  Brain mapping techniques are constantly evolving, and rely on the development and refinement of image acquisition, representation, analysis, visualization and interpretation techniques. Functional and structural neuroimaging are at the core of the mapping aspect of Brain Mapping.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_HUMAN_BRAIN_MAP_HELP</Tag>
@@ -1693,7 +1693,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_HUMAN_BRAIN_MAP_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]The worm's brain contains 302 neurons, but the mapping effort took more than a decade. The human brain has an estimated 100 billion neurons and 100 trillion synapses.</Text>
+			<Text>[NEWLINE][NEWLINE]The [Caenorhabditis elegans] brain contains 302 neurons, but the mapping effort took more than a decade. The human brain has an estimated 100 billion neurons and 100 trillion synapses.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_FACEBOOK</Tag>
@@ -1709,7 +1709,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_FACEBOOK_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"By giving people the power to share, we're making the world more transparent." (Mark Zuckerberg)</Text>
+			<Text>[NEWLINE][NEWLINE]"By giving people the power to share, we're making the world more transparent." [NEWLINE][NEWLINE][TAB]—Mark Zuckerberg</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_BODY_EXCHANGE</Tag>
@@ -1833,7 +1833,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_QUANTUM_SUPERCOMPUTER_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"2055 – $1,000 computer will match the processing power of all human brains on Earth" (Ray Kurzweil)</Text>
+			<Text>[NEWLINE][NEWLINE]"2055 – $1,000 computer will match the processing power of all human brains on Earth."[NEWLINE][NEWLINE][TAB]—Ray Kurzweil</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_CYBER_COMMAND</Tag>
@@ -1849,7 +1849,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_CYBER_COMMAND_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"USCYBERCOM plans, coordinates, integrates, synchronizes and conducts activities to: direct the operations and defense of specified Department of Defense information networks and; prepare to, and when directed, conduct full spectrum military cyberspace operations in order to enable actions in all domains, ensure US/Allied freedom of action in cyberspace and deny the same to our adversaries." (USCYBERCOM Mission Statement)</Text>
+			<Text>[NEWLINE][NEWLINE]"USCYBERCOM plans, coordinates, integrates, synchronizes and conducts activities to: direct the operations and defense of specified Department of Defense information networks and; prepare to, and when directed, conduct full spectrum military cyberspace operations in order to enable actions in all domains, ensure US/Allied freedom of action in cyberspace and deny the same to our adversaries."[NEWLINE][NEWLINE][TAB]—USCYBERCOM Mission Statement</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_BIO_MEMORY_IMPLANT</Tag>
@@ -1929,7 +1929,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_M_THEORY_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"In the history of our intellectual development this will represent the crowning achievement of 2,000 years of investigation into the nature of matter -- space and time." (Michio Kaku)</Text>
+			<Text>[NEWLINE][NEWLINE]"In the history of our intellectual development this will represent the crowning achievement of 2,000 years of investigation into the nature of matter—space and time."[NEWLINE][NEWLINE][TAB]—Michio Kaku</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_IMMUNITY_CHIP</Tag>
@@ -1937,7 +1937,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_IMMUNITY_CHIP_DESC</Tag>
-			<Text>Immunity Chips represent a breakthrough in modern medicine involving the use of biological nanites, which are extremely tiny machines, to spread throughout the human body fighting disease alongside the natural T-Cells.  These nanites will fight everything from the common cold, to cancer, to rare viruses.  Mortality rates are sharpy reduced and mankind is happier as a result.</Text>
+			<Text>Immunity Chips represent a breakthrough in modern medicine involving the use of extremely small biological nanites, designed to spread throughout the human body fighting disease alongside the natural T-cells.  These nanites will fight everything from the common cold to cancer to rare viruses.  Mortality rates are sharpy reduced and mankind is happier as a result.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_IMMUNITY_CHIP_HELP</Tag>
@@ -1965,7 +1965,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_IMAGINARIUM_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"Can you put a price on your dreams?" (Tony)</Text>
+			<Text>[NEWLINE][NEWLINE]"Can you put a price on your dreams?"[NEWLINE][NEWLINE][TAB]—Tony</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_VIRTUAL_SECURITIES_EXCHANGE</Tag>
@@ -1973,7 +1973,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_VIRTUAL_SECURITIES_EXCHANGE_DESC</Tag>
-			<Text>Another result of the VR Revolution, the Virtual Securities Exchange is a vast forum where an unlimited number of citizens can enter virtually to buy and sell stocks, bonds, commodities, and any other asset that is bought and sold in traditional stock markets.  With a large amount of power taken from middlemen and brokerages, the entire trading system sees a boost in efficiency, as well as popularity.</Text>
+			<Text>Another result of the VR revolution, the Virtual Securities Exchange is a vast forum where an unlimited number of citizens can enter virtually to buy and sell stocks, bonds, commodities, and any other asset that is bought and sold in traditional stock markets.  With a large amount of power taken from middlemen and brokerages, the entire trading system sees a boost in efficiency, as well as popularity.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_VIRTUAL_SECURITIES_EXCHANGE_HELP</Tag>
@@ -1981,7 +1981,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_VIRTUAL_SECURITIES_EXCHANGE_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"Can you put a price on your dreams?" (Tony)</Text>
+			<Text>[NEWLINE][NEWLINE]———</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_AI_SECURITY_CENTER</Tag>
@@ -2017,7 +2017,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_GIGA_TOWER_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"Manhattan has no choice but the skyward extrusion of the Grid itself; only the Skyscraper offers business the wide-open spaces of a man-made Wild West, a frontier in the sky." (Rem Koolhaas)</Text>
+			<Text>[NEWLINE][NEWLINE]"Manhattan has no choice but the skyward extrusion of the Grid itself; only the Skyscraper offers business the wide-open spaces of a man-made Wild West, a frontier in the sky."[NEWLINE][NEWLINE][TAB]Rem Koolhaas</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_FORCE_FIELD</Tag>
@@ -2033,7 +2033,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_BEEF_VAT_DESC</Tag>
-			<Text>The Beef Vat uses Nanites, Genetic Synthesis, and a fair amount of electricty to grow almost any food item from it's base elements.  While at first rejected by the population due to prejudices against non-natural food, Beef Vat technology has managed to catch on in cities whose enourmous size demands a cheap, unending source of nourishment.</Text>
+			<Text>The Beef Vat uses nanites, genetic synthesis, and a fair amount of electricty to grow almost any food item from its base elements.  While at first rejected by the population due to prejudices against non-natural food, Beef Vat technology has managed to catch on in cities whose enourmous size demands a cheap, unending source of nourishment.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_BEEF_VAT_HELP</Tag>
@@ -2065,7 +2065,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_AI_COURT_DESC</Tag>
-			<Text>The AI Court is the culmination of thousands of years in judicial advancement.  The AI Court provides a completely impartial viewpoint regarding matters of law, rendering judgements and guiding court proceedings based upon facts without outside influence.  While Juries are still available and widely used, the AI assigned to the case is able to streamline the process and render impartial rulings when needed.</Text>
+			<Text>The AI Court is the culmination of thousands of years in judicial advancement.  The AI Court provides a completely impartial viewpoint regarding matters of law, rendering judgements and guiding court proceedings based upon facts without outside influence.  While juries are still available and widely used, the AI assigned to the case is able to streamline the process and render impartial rulings when needed.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_AI_COURT_HELP</Tag>
@@ -2161,7 +2161,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_SPACE_MANIPULATION_TESTING_STATION_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"Nothing puzzles me more than time and space; and yet nothing troubles me less" (Charles Lamb)</Text>
+			<Text>[NEWLINE][NEWLINE]"Nothing puzzles me more than time and space; and yet nothing troubles me less."[NEWLINE][NEWLINE][TAB]—Charles Lamb</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_EMPATHIC_NETWORK</Tag>
@@ -2177,7 +2177,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_EMPATHIC_NETWORK_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"That is the exploration that awaits you! Not mapping stars and studying nebula, but charting the unknown possibilities of existence" (Leonard Nimoy)</Text>
+			<Text>[NEWLINE][NEWLINE]"That is the exploration that awaits you! Not mapping stars and studying nebula[e], but charting the unknown possibilities of existence"[NEWLINE][NEWLINE][TAB]Leonard Nimoy</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_ROBOT_DISTRICT</Tag>
@@ -2201,7 +2201,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_ROBOTIC_EGALITARIAN_ACT_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"They hate us, you know... The humans." (Gigolo Joe)  </Text>
+			<Text>[NEWLINE][NEWLINE]"They hate us, you know... The humans."[NEWLINE][NEWLINE][TAB]Gigolo Joe</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_OCEAN_HABITAT_PROTOTYPE</Tag>
@@ -2217,7 +2217,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_OCEAN_HABITAT_PROTOTYPE_QUOTE</Tag>
-			<Text>[NEWLINE][NEWLINE]"But more wonderful than the lore of old men and the lore of books is the secret lore of ocean." (H. P. Lovecraft)</Text>
+			<Text>[NEWLINE][NEWLINE]"But more wonderful than the lore of old men and the lore of books is the secret lore of ocean."[NEWLINE][NEWLINE][TAB]—H. P. Lovecraft</Text>
 		</Row>
 
 
@@ -2235,7 +2235,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_ERA_NANOTECH_STRATEGY</Tag>
-			<Text>The NanoTech Era</Text>
+			<Text>The Nanotech Era</Text>
 		</Row>
 
 
@@ -2245,7 +2245,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ECONOMY_OF_SCALE_DESC</Tag>
-			<Text>Economies of scale, in microeconomics, refers to the cost advantages that a business obtains due to expansion. There are factors that cause a producer’s average cost per unit to fall as the scale of output is increased. "Economies of scale" is a long run concept and refer to reductions in unit cost as the size of a facility and the usage levels of other inputs increase.</Text>
+			<Text>Economies of scale, in microeconomics, are the cost advantages that a business obtains due to expansion. There are factors that cause a producer’s average cost per unit to fall as the scale of output is increased. "Economies of scale" is a long run concept and refer to reductions in unit cost as the size of a facility and the usage levels of other inputs increase.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ECONOMY_OF_SCALE_HELP</Tag>
@@ -2841,7 +2841,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NATIONALISM_1_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"Patriotism is when love of your own people comes first; nationalism, when hate for people other than your own comes first."[NEWLINE][TAB][TAB] - Charles DeGaulle</Text>
+			<Text>[NEWLINE][TAB][TAB]"Patriotism is when love of your own people comes first; nationalism, when hate for people other than your own comes first."[NEWLINE][TAB][TAB] —Charles DeGaulle</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NAVAL_ARMOR_TITLE</Tag>
@@ -2857,7 +2857,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_NAVAL_ARMOR_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"A good Navy is not a provocation to war. It is the surest guaranty of peace."[NEWLINE][TAB][TAB] - Theodore Roosevelt</Text>
+			<Text>[NEWLINE][TAB][TAB]"A good Navy is not a provocation to war. It is the surest guaranty of peace."[NEWLINE][TAB][TAB] —Theodore Roosevelt</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_BOMBARDMENT_TITLE</Tag>
@@ -2905,7 +2905,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TRACKED_VEHICLES_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"My aim, then, was to whip the rebels, to humble their pride, to follow them to their inmost recesses, and make them fear and dread us. Fear is the beginning of wisdom."[NEWLINE][TAB][TAB] - General William T. Sherman</Text>
+			<Text>[NEWLINE][TAB][TAB]"My aim, then, was to whip the rebels, to humble their pride, to follow them to their inmost recesses, and make them fear and dread us. Fear is the beginning of wisdom."[NEWLINE][TAB][TAB] —General William T. Sherman</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TORPEDOES_TITLE</Tag>
@@ -2921,7 +2921,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_TORPEDOES_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"Damn the torpedoes! Full speed ahead!"[NEWLINE][TAB][TAB] - Admiral David G. Farragut</Text>
+			<Text>[NEWLINE][TAB][TAB]"Damn the torpedoes! Full speed ahead!"[NEWLINE][TAB][TAB] —Admiral David G. Farragut</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SUBMERSIBLES_TITLE</Tag>
@@ -3001,7 +3001,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CORPORATIONS_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"Corporation: An ingenious device for obtaining profit without individual responsibility."[NEWLINE][TAB][TAB] - Ambrose Bierce</Text>
+			<Text>[NEWLINE][TAB][TAB]"Corporation: An ingenious device for obtaining profit without individual responsibility."[NEWLINE][TAB][TAB] —Ambrose Bierce</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_INFANTRY_FIGHTING_VEHICLES_TITLE</Tag>
@@ -3257,7 +3257,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_COMPOSITE_ARMOR_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"Whereas knights of old wore armor of plate, the modern knights of the air wear the invisible but magic armor of confidence in technology"[NEWLINE][TAB][TAB] - Mike Spick</Text>
+			<Text>[NEWLINE][TAB][TAB]"Whereas knights of old wore armor of plate, the modern knights of the air wear the invisible but magic armor of confidence in technology"[NEWLINE][TAB][TAB] —Mike Spick</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_COMBINED_ARMS_DOCTRINE_TITLE</Tag>
@@ -3529,7 +3529,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_OPTICAL_COMPUTING_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"In 20 or 30 years, you'll be able to hold in your hand as much computing knowledge as exists now in the whole City, or even the whole world."[NEWLINE][TAB][TAB] - Douglas Englebart</Text>
+			<Text>[NEWLINE][TAB][TAB]"In 20 or 30 years, you'll be able to hold in your hand as much computing knowledge as exists now in the whole City, or even the whole world."[NEWLINE][TAB][TAB] —Douglas Englebart</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_METAMATERIALS_TITLE</Tag>
@@ -3561,7 +3561,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SCRAMJET_ENGINES_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"The backbone of surprise is fusing speed with secrecy."[NEWLINE][TAB][TAB] - Karl Von Clausewitz</Text>
+			<Text>[NEWLINE][TAB][TAB]"The backbone of surprise is fusing speed with secrecy."[NEWLINE][TAB][TAB] —Karl Von Clausewitz</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MAGNETICS_MINIATURIZATION_TITLE</Tag>
@@ -3577,7 +3577,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_MAGNETICS_MINIATURIZATION_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"This is really miniaturization at its best."[NEWLINE][TAB][TAB] -	Dave O'Brien</Text>
+			<Text>[NEWLINE][TAB][TAB]"This is really miniaturization at its best."[NEWLINE][TAB][TAB] —Dave O'Brien</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ROBOTIC_SURGERY_TITLE</Tag>
@@ -3689,7 +3689,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_QUANTUM_COMPUTERS_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"Nobody understands Quantum Theory."[NEWLINE][TAB][TAB] - Richard Feynman</Text>
+			<Text>[NEWLINE][TAB][TAB]"Nobody understands Quantum Theory."[NEWLINE][TAB][TAB] —Richard Feynman</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ARTIFICIAL_INTELLIGENCE_TITLE</Tag>
@@ -3705,7 +3705,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_ARTIFICIAL_INTELLIGENCE_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"I visualize a time when we will be to robots what dogs are to humans, and I'm rooting for the machines."[NEWLINE][TAB][TAB] - CLAUDE SHANNON</Text>
+			<Text>[NEWLINE][TAB][TAB]"I visualize a time when we will be to robots what dogs are to humans, and I'm rooting for the machines."[NEWLINE][TAB][TAB] —Claude Shannon</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LASER_MANUFACTURING_TITLE</Tag>
@@ -3749,11 +3749,11 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_UNIFIED_FIELD_THEORY_HELP</Tag>
-			<Text>Allows construction of future City force fields.</Text>
+			<Text>Allows construction of future city force fields.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_UNIFIED_FIELD_THEORY_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"If you can't explain it simply, you don't understand it well enough"[NEWLINE][TAB][TAB] - Albert Einstein</Text>
+			<Text>[NEWLINE][TAB][TAB]"If you can't explain it simply, you don't understand it well enough"[NEWLINE][TAB][TAB] —Albert Einstein</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_PROMOTION_MAGELLAN_VOYAGE_DESC</Tag>
@@ -3821,7 +3821,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_PROMOTION_JINGOIST</Tag>
-			<Text>Because your culture deserves to be spread.  By force if necessary.</Text>
+			<Text>Because your culture deserves to be spread, by force if necessary.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_PROMOTION_JINGOIST_HELP</Tag>
@@ -3833,7 +3833,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_PROMOTION_ECO_FANATIC</Tag>
-			<Text>Driven by national pride, units fight to the bitter end.</Text>
+			<Text>Driven by pride in the environment, units fight to the end.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_PROMOTION_ECO_FANATIC_HELP</Tag>
@@ -3874,7 +3874,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_UNIT_CIVIL_ENGINEER_HELP</Tag>
-			<Text>Industrial upgrade to the ancient worker unit.  The Civil Engineer recieves none of the standard bonuses of the worker but is 150% more efficient.</Text>
+			<Text>An Industrial upgrade to the ancient worker unit, the Civil Engineer recieves none of the standard bonuses of the worker but is 150% more efficient.</Text>
 		</Row>
 		<!--<Row>
 			<Tag>TXT_KEY_UNIT_MACHINE_GUNNER</Tag>
@@ -3990,7 +3990,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_STEALTH_GUNSHIP_TEXT</Tag>
-			<Text>Advances in Metamaterials and rotor design have culminated in this super stealthy attack helicopter.  It's radar cross section is minimal, and it's rotor noise is orders of magnitude less than traditional helicopters, thus allowing it to sneak up on enemy forces and deliver devastating firepower.</Text>
+			<Text>Advances in metamaterials and rotor design have culminated in this extremely stealthy attack helicopter.  Its radar cross section is minimal, and its rotor noise is orders of magnitude less than that of traditional helicopters, thus allowing it to sneak up on enemy forces and deliver devastating firepower.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_UNIT_HELP_STEALTH_GUNSHIP</Tag>
@@ -4547,7 +4547,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SUBLIMINAL_MIND_CONTROL_CIV</Tag>
-			<Text>BioComputer Interfaces allow human, and even animal, users to directly access and control information technology using only their bodies and even thoughts.</Text>
+			<Text>Bio-Computer Interfaces allow human, and even animal, users to directly access and control information technology using only their bodies and even thoughts.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SUBLIMINAL_MIND_CONTROL_HELP</Tag>
@@ -4555,7 +4555,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_SUBLIMINAL_MIND_CONTROL_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"All wrong-doing arises because of mind. If mind is transformed can wrong-doing remain?"[NEWLINE][TAB][TAB] - Buddha</Text>
+			<Text>[NEWLINE][TAB][TAB]"All wrong-doing arises because of mind. If mind is transformed can wrong-doing remain?"[NEWLINE][TAB][TAB] —Gautam Buddha</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_CYBERNETIC_ORGANISMS_DESC</Tag>
@@ -4729,7 +4729,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_RAW_MATERIALS_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"A rolling stone gathers no moss, but it gains a certain polish."[NEWLINE][TAB][TAB] - Oliver Herford</Text>
+			<Text>[NEWLINE][TAB][TAB]"A rolling stone gathers no moss, but it gains a certain polish."[NEWLINE][TAB][TAB] —Oliver Herford</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_GREAT_MONUMENTS_TITLE</Tag>
@@ -4737,7 +4737,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_GREAT_MONUMENTS_DESC</Tag>
-			<Text>Various Wonders dedicated to notable figures.</Text>
+			<Text>Allows the construction of various wonders dedicated to notable figures.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_GREAT_MONUMENTS_HELP</Tag>
