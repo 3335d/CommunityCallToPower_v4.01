@@ -59,7 +59,7 @@
 			<Text>Jade</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_JADE_TEXT">
-			<Text>Jade is an ornamental stone.</Text>
+			<Text>Jade is a green ornamental stone. The term jade is applied to two different metamorphic rocks that are made up of different silicate minerals, nephrite and jadeite</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_JADE_HELP">
 			<Text>Jade is a stone used for many types of ornaments.</Text>
@@ -71,7 +71,7 @@
 			<Text>Manganese is a silvery-gray metal resembling iron. It is hard and very brittle, difficult to fuse, but easy to oxidize.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_MANGANESE_HELP">
-			<Text>Metal used in many industrial and biological processes.</Text>
+			<Text>Manganese is a used in many industrial and biological processes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_OAK">
 			<Text>Oak</Text>
@@ -80,7 +80,7 @@
 			<Text>Oak trees have spirally arranged leaves, with lobed margins in many species; some have serrated leaves or entire leaves with smooth margins. Many deciduous species are marcescent, not dropping dead leaves until spring. The flowers are catkins, produced in spring. The fruit is a nut called an acorn, borne in a cup-like structure known as a cupule; each acorn contains one seed (rarely two or three) and takes 6–18 months to mature, depending on species.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_OAK_HELP">
-			<Text>Strong wood used in building construction.</Text>
+			<Text>Oak is a strong wood used in building construction.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_SQUID">
 			<Text>Squid</Text>
@@ -107,7 +107,7 @@
 			<Text>Tobacco is an agricultural product processed from the leaves of plants in the genus Nicotiana. It can be consumed, used as a pesticide and, in the form of nicotine tartrate, used in some medicines.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_TOBACCO_HELP">
-			<Text>Usualy consumed as a recreational drug.</Text>
+			<Text>Usually consumed as a recreational drug.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_TIN">
 			<Text>Tin</Text>
