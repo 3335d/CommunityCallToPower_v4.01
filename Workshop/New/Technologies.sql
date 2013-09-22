@@ -50,9 +50,9 @@ CREATE TABLE Technologies ('ID' integer primary key autoincrement ,
 								'TechCat' text default NULL , 
 								'Tier' integer default 1 , foreign key (IconAtlas) references IconTextureAtlases(Atlas));
 
--- Tech costs Mathematics:- WORK IN PROGRESS! ONLY BASE COSTS ARE SET HERE!! CURRENTLY only the first FOUR Era's have thier cost set here!! Base of 20(Ancient) Classical Base is 50(250% more than Ancient), 
--- Medieval is 150(300% more than Classical), Renaissance is 450(300% more than Medieval), TOO DO(They are set in GamePaceRules.sql atm) Industrial is 1575(350% more than Renaissance), Modern is 5512.5
--- (350% more than Industrial), Digital is 19293.75(350% more than Modern), Information is 77175(400% more than Digital)
+-- Tech costs Mathematics:- WORK IN PROGRESS! ONLY BASE COSTS ARE SET HERE!! CURRENTLY only the first FOUR Era's have thier cost set here!! Base of 20 (Ancient); Classical Base is 50 (250% of Ancient); 
+-- Medieval is 150 (300% of Classical), Renaissance is 450 (300% of Medieval). TO DO (They are set in GamePaceRules.sql at the moment) Industrial is 1575 (350% of Renaissance), Modern is 5512.5
+-- (350% of Industrial), Digital is 19293.75 (350% of Modern), Information is 77175(400% of Digital)
 -- PLEASE SEE GamePaceRules.sql for setting up Tier Costs. 
 -- Table layout is only half done.							
 -- Populate the table in the order we prefer.
