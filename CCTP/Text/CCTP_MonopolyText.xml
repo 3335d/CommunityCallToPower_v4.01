@@ -23,10 +23,10 @@
 			<Text>Tea</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_TEA_TEXT">
-			<Text>Tea is a brewed beverage with a bitter flavor prepared from tea leaves.</Text>
+			<Text>Tea is a brewed, bitter-flavored beverage prepared by the boiling of tea leaves in water.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_TEA_HELP">
-			<Text>Aromatic beans coveted by many.</Text>
+			<Text>Aromatic leaves coveted by many.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_POPPY">
 			<Text>Poppy</Text>
@@ -35,7 +35,7 @@
 			<Text>Most species of poppies are attractive and are cultivated as ornamental plants. A few species have other uses, principally as sources of drugs and foods.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_POPPY_HELP">
-			<Text>Both a vital Medical and Recreational Drug.</Text>
+			<Text>Poppies are used as drugs, both medically and recreationally. In addition, they may serve as a food source or as a means of flavoring other foods.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_TITANIUM">
 			<Text>Titanium</Text>
@@ -44,7 +44,7 @@
 			<Text>A metallic element, titanium is recognized for its high strength-to-weight ratio. It is a strong metal with low density that is quite ductile (especially in an oxygen-free environment), lustrous, and metallic-white in color. The relatively high melting point (more than 1,650 °C or 3,000 °F) makes it useful as a refractory metal. It is paramagnetic and has fairly low electrical and thermal conductivity.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_TITANIUM_HELP">
-			<Text>Valuable metal prized in the Aerospace Industry.</Text>
+			<Text>Titanium is a valuable metal prized in the aerospace industry for its strength.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_ALOE_VERA">
 			<Text>Aloe Vera</Text>
@@ -53,7 +53,7 @@
 			<Text>Aloe vera is a species of succulent plant that probably originated in northern Africa. The species does not have any naturally occurring populations, although closely related aloes do occur in northern Africa. The species is frequently cited as being used in herbal medicine since the beginning of the first century AD.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_ALOE_VERA_HELP">
-			<Text>Herb used for many medicinal practices.</Text>
+			<Text>Aloe vera is an herb used medicinally both in antiquity and in modern times.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_JADE">
 			<Text>Jade</Text>
@@ -62,7 +62,7 @@
 			<Text>Jade is an ornamental stone.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_JADE_HELP">
-			<Text>Stone used for many types of ornaments.</Text>
+			<Text>Jade is a stone used for many types of ornaments.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_MANGANESE">
 			<Text>Manganese</Text>
@@ -71,13 +71,13 @@
 			<Text>Manganese is a silvery-gray metal resembling iron. It is hard and very brittle, difficult to fuse, but easy to oxidize.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_MANGANESE_HELP">
-			<Text>Metal used in many processes.</Text>
+			<Text>Metal used in many industrial and biological processes.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_OAK">
 			<Text>Oak</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_OAK_TEXT">
-			<Text>Oaks have spirally arranged leaves, with lobed margins in many species; some have serrated leaves or entire leaves with smooth margins. Many deciduous species are marcescent, not dropping dead leaves until spring. The flowers are catkins, produced in spring. The fruit is a nut called an acorn, borne in a cup-like structure known as a cupule; each acorn contains one seed (rarely two or three) and takes 6–18 months to mature, depending on species.</Text>
+			<Text>Oak trees have spirally arranged leaves, with lobed margins in many species; some have serrated leaves or entire leaves with smooth margins. Many deciduous species are marcescent, not dropping dead leaves until spring. The flowers are catkins, produced in spring. The fruit is a nut called an acorn, borne in a cup-like structure known as a cupule; each acorn contains one seed (rarely two or three) and takes 6–18 months to mature, depending on species.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_OAK_HELP">
 			<Text>Strong wood used in building construction.</Text>
