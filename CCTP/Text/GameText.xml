@@ -9,7 +9,7 @@
 		<!-- Palace Extention - Science Wing, building-->
 		<Row>
 			<Tag>TXT_KEY_BUILDING_PALACE_SCIENCE_HELP</Tag>
-			<Text>Increases global [ICON_RESEARCH] Science</Text>
+			<Text>Increases global [ICON_RESEARCH] Science.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_PALACE_SCIENCE</Tag>
@@ -58,7 +58,7 @@
 			<Text>Exotic Hardwood</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_WOOD_TEXT">
-			<Text>Hardwoods are employed in a large range of applications including: fuel, tools, construction, boat building, furniture making, musical instruments, flooring, cooking, barrels, manufacture of charcoal, etc. Solid hardwood joinery tends to be expensive compared to softwood. In the past, tropical hardwoods were easily available but the supply of some species such as Burma teak, and mahogany is now becoming scarce due to over-exploitation. </Text>
+			<Text>Hardwoods are employed in a large range of applications including fuel, tools, construction, boat building, furniture making, musical instruments, flooring, cooking, barrels, manufacture of charcoal, etc. Solid hardwood joinery tends to be expensive compared to softwood. In the past, tropical hardwoods were easily available but the supply of some species such as Burma teak and mahogany is now becoming scarce due to over-exploitation. </Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_WOOD_HELP">
 			<Text>Strong hardwood used in building construction.</Text>
@@ -70,7 +70,7 @@
 			<Text>In everyday English, "berry" is a term for any small edible fruit. These "berries" are usually juicy, round or semi-oblong, brightly coloured, sweet or sour, and do not have a stone or pit, although many seeds may be present.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_BERRIES_HELP">
-			<Text>Small edible fruit</Text>
+			<Text>A small edible fruit that produces [ICON_FOOD] when worked.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_FLAX">
 			<Text>Flax</Text>
@@ -91,7 +91,7 @@
 			<Text>Its seeds are used to make cocoa powder and chocolate.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_MANGO">
-			<Text>Mango trees</Text>
+			<Text>Mangoes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RESOURCE_MANGO_TEXT">
 			<Text>Mango trees grow up to 35–40 m (115–130 ft) tall, with a crown radius of 10 m (33 ft). The trees are long-lived, as some specimens still fruit after 300 years. In deep soil, the taproot descends to a depth of 6 m (20 ft), with profuse, wide-spreading feeder roots; the tree also sends down many anchor roots, which penetrate several feet of soil.</Text>
@@ -106,7 +106,7 @@
 			<Text>Barley, a member of the grass family, is a major cereal grain. Important uses include use as animal fodder, as a source of fermentable material for beer and certain distilled beverages, and as a component of various health foods. It is used in soups and stews, and in barley bread of various cultures. Barley grains are commonly made into malt in a traditional and ancient method of preparation.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_RESOURCE_BARLEY_HELP">
-			<Text>It is currently popular in temperate areas where it is grown as a summer crop and tropical areas where it is sown as a winter crop.</Text>
+			<Text>Barley is popular in temperate areas, where it is grown as a summer crop, and in tropical areas where it is sown as a winter crop.</Text>
 		</Row>
 		<!-- Update Gamespeed Names -->
 		<Update>
@@ -127,25 +127,25 @@
 		</Update>
 		<!-- Update Gamespeed Help -->
 		<Update>
-			<Set Text="UNBALANCED. A fast paced game. Good for players that do not like to hang around. "/>
+			<Set Text="UNBALANCED. A fast paced game, good for players that do not like to hang around. "/>
 			<Where Tag="TXT_KEY_GAMESPEED_QUICK_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="This is the standard option for use with CCTP, it is the only option that is balanced and enjoyable to play."/>
+			<Set Text="This is the standard option for use with CCTP, and it is the only option that is balanced and enjoyable to play."/>
 			<Where Tag="TXT_KEY_GAMESPEED_STANDARD_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Using this option will slow almost all parts down, but its playable"/>
+			<Set Text="UNBALANCED. The game will be slowed down to a notable extent with this game speed."/>
 			<Where Tag="TXT_KEY_GAMESPEED_EPIC_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Using this option will slow almost all parts down, but its playable."/>
+			<Set Text="UNBALANCED. Using this option will slow down the game speed to a profound extent."/>
 			<Where Tag="TXT_KEY_GAMESPEED_MARATHON_HELP"/>
 		</Update>
 		<!--TECH TREES-->
 		<Row>
 			<Tag>TXT_KEY_TECHTREE_ENGINEERING</Tag>
-			<Text>Engineering ([ICON_PRODUCTION])  )</Text>
+			<Text>Engineering ([ICON_PRODUCTION]))  </Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECHTREE_MILITARY</Tag>
@@ -321,7 +321,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_MAHABODHI_TEMPLE_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"Thousands of candles can be lit from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared."[NEWLINE][TAB][TAB] - Buddha[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Thousands of candles can be lit from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared."[NEWLINE][TAB][TAB] — Buddha[NEWLINE][TAB]</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_ZIGGURAT_OF_MARDUK</Tag>
@@ -329,7 +329,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_ZIGGURAT_OF_MARDUK_DESC</Tag>
-			<Text>The Marduk ziggurat was set within the vast sacred precinct on the southern end of the town of Babylon, surrounded by the river, a canal, a double wall and a processional way.Its Sumerian name was Etemenanki "The Foundation of Heaven and Earth." It was probably built by Hammurabi. </Text>
+			<Text>The Ziggurat of Marduk was set within the vast sacred precinct on the southern end of the town of Babylon, surrounded by the river, a canal, a double wall and a processional way. Its Sumerian name was Etemenanki, "The Foundation of Heaven and Earth." It was probably built by Hammurabi. </Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_ZIGGURAT_OF_MARDUK_HELP</Tag>
@@ -337,7 +337,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_ZIGGURAT_OF_MARDUK_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"Therefore is the name of it called Babel; because the Lord did there confound the language of all the earth: and from thence did the Lord scatter them abroad upon the face of all the earth."[NEWLINE][TAB][TAB] - Old Testement[NEWLINE][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Therefore is the name of it called Babel; because the Lord did there confound the language of all the earth: and from thence did the Lord scatter them abroad upon the face of all the earth."[NEWLINE][TAB][TAB] — Old Testement[NEWLINE][TAB]</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_THE_LABYRINTH</Tag>
@@ -345,7 +345,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_THE_LABYRINTH_DESC</Tag>
-			<Text>In Greek mythology, the Labyrinth of Crete was derived from the elaborate floor plan of the Palace of Knossos.  Daedalus the Athenian craftsman, was the architect and inventor who designed for King Minos of Crete the labyrinth in which was imprisoned the Minotaur, a man-eating monster that was half man and half bull.  The labyrinth was so skillfully designed that no one could escape from the maze or the Minotaur. Daedalus revealed the secret of the labyrinth only to Ariadne, daughter of Minos, and she aided her lover, the Athenian hero Theseus, to slay the monster and escape.</Text>
+			<Text>In Greek mythology, the Labyrinth of Crete was derived from the elaborate floor plan of the Palace of Knossos.  Daedalus, the Athenian craftsman, was the architect and inventor who designed for King Minos of Crete the labyrinth which imprisoned the Minotaur, a man-eating monster that was half man and half bull.  The Labyrinth was so skillfully designed that no one could escape from the maze or the Minotaur. Daedalus revealed the secret of the labyrinth only to Ariadne, daughter of Minos, and she aided her lover, the Athenian hero Theseus, to slay the monster and escape.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_THE_LABYRINTH_HELP</Tag>
@@ -353,7 +353,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_THE_LABYRINTH_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"Indeed, what is there that does not appear marvelous when it comes to our knowledge for the first time? How many things, too, are looked upon as quite impossible until they have been actually effected?"[NEWLINE][TAB][TAB] - Pliny the Elder[NEWLINE][TAB][TAB]</Text>
+			<Text>[NEWLINE][TAB][TAB]"Indeed, what is there that does not appear marvelous when it comes to our knowledge for the first time? How many things, too, are looked upon as quite impossible until they have been actually effected?"[NEWLINE][TAB][TAB] — Pliny the Elder[NEWLINE][TAB][TAB]</Text>
 		</Row><!--
 		<Row>
 			<Tag>TXT_KEY_BUILDING_PARTHENON</Tag>
@@ -378,11 +378,11 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_TEMPLE_OF_HEAVEN_DESC</Tag>
-			<Text>The Temple of Heaven, literally the Altar of Heaven is a complex of Taoist buildings; the Temple of Heaven is situated in the southern part of Beijing about 6 Km away from the centre of the City. It is three times the area of the Forbidden City and smaller than the Summer Palace with an area of about 273 hectares.</Text>
+			<Text>The Temple of Heaven, literally the Altar of Heaven, is a complex of Taoist buildings situated in the southern part of Beijing, about 6 km away from the centre of the city. With an area of 273 hectares, it is three times the area of the Forbidden City, but smaller than the Summer Palace.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_TEMPLE_OF_HEAVEN_HELP</Tag>
-			<Text>City must be built within 2 tiles of a Mountain.</Text>
+			<Text>Increases [ICON_SCIENCE] Science in the empire. City must be built within 2 tiles of a Mountain.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_WONDER_TEMPLE_OF_HEAVEN_QUOTE</Tag>
